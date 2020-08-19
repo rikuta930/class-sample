@@ -15,3 +15,6 @@ if __name__ == '__main__':
 
     counter_1.increase()
     print(counter_1.value)
+
+    counter_2 = Counter(1)
+    print(counter_2.value)
